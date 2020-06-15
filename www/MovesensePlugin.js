@@ -1,6 +1,6 @@
 var exec = require('cordova/exec');
 
-function MSPlugin() {
+/*function MSPlugin() {
 }
 
 MSPlugin.prototype.scan = function (successCallback, errorCallback) {
@@ -101,4 +101,4 @@ MSPlugin.install = function () {
 
 };
 
-cordova.addConstructor(MSPlugin.install);
+cordova.addConstructor(MSPlugin.install);*/
